@@ -1,0 +1,12 @@
+c:\users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\bin\Debug\Queiz.exe.config
+c:\users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\bin\Debug\Queiz.exe
+c:\users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\bin\Debug\Queiz.pdb
+c:\users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\obj\Debug\Queiz.exe
+c:\users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\obj\Debug\Queiz.pdb
+C:\Users\recxt\documents\visual studio 2013\Projects\Queiz\Queiz\obj\Debug\Queiz.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Queiz\Queiz\bin\Debug\Queiz.exe.config
+C:\Users\USER\Desktop\Queiz\Queiz\bin\Debug\Queiz.exe
+C:\Users\USER\Desktop\Queiz\Queiz\bin\Debug\Queiz.pdb
+C:\Users\USER\Desktop\Queiz\Queiz\obj\Debug\Queiz.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Queiz\Queiz\obj\Debug\Queiz.exe
+C:\Users\USER\Desktop\Queiz\Queiz\obj\Debug\Queiz.pdb
